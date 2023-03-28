@@ -1,2 +1,9 @@
 # game-dev-thing-c
-The C Programming Language is a general purpose programming language created in the 1970s
+
+game-dev-thing but in c
+
+
+# build requirements
+
+- gcc (more compilers soon)
+- a brain
